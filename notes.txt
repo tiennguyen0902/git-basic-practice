@@ -1,0 +1,3 @@
+Ghi chu hoc Git
+
+ bai 2
